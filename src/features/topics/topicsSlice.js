@@ -14,6 +14,7 @@ export const topicsSlice = createSlice({
                quizIds: []
            }
            state.topics[action.payload.id] = topicObj;
+        }
     }
 });
 
