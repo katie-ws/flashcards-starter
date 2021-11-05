@@ -11,7 +11,6 @@ Practice project as part of the Codecademy Full Stack Engineer course to use Rea
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-![image](https://user-images.githubusercontent.com/89932020/140574148-4ee00fa6-b4ad-4291-856b-96ea1a06d696.png)
 
 ## General Information
 
