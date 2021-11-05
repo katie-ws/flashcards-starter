@@ -22,8 +22,10 @@ export default function NewQuizForm() {
 
     const cardIds = [];
 
+    let quizId = uuidv4();
+
     dispatch(addQuizForTopicId({
-      id: uuidv4(),
+      id: quizId,
       name: name,
       topicId: topicId,
       cardIds: cardIds
