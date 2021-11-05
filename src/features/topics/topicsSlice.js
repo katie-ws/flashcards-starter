@@ -16,3 +16,5 @@ export const topicsSlice = createSlice({
            state.topics[action.payload.id] = topicObj;
     }
 });
+
+export default topicsSlice.reducer;
